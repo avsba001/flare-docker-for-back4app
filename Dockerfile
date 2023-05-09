@@ -4,4 +4,4 @@ WORKDIR /app
 
 EXPOSE 5005
 
-CMD [ "flare --nologin=0" ]
+CMD [ "flare" ]
